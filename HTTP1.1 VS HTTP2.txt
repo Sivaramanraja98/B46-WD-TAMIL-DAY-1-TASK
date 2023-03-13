@@ -36,6 +36,6 @@ It uses PUSH frame by server that collects all multiple pages
 4) HTTP/1.1
 It compresses data by itself.	
 
-4)HTTP/2
+4) HTTP/2
 
 It uses HPACK for data compression.
