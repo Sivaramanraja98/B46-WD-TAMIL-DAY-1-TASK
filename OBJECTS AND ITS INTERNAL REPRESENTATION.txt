@@ -1,0 +1,25 @@
+OBJECT   - ref google.
+
+An object is a collection of properties.
+An object is a collection of related data and functionality. 
+These usually consist of several variables and functions.
+Objects in JavaScript can be compared to objects in real life.
+
+In JavaScript, almost "everything" is an object.but 
+Javascript is not an object oriented programing language.
+
+Dates are always objects
+Maths are always objects
+Regular expressions are always objects
+Arrays are always objects
+Functions are always objects
+Objects are always objects
+
+SYNTAX OF OBJECT IN JS.
+
+	let object = {}
+
+Internal representation of Objects.
+
+
+
