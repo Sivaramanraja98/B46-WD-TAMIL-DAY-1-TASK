@@ -21,5 +21,8 @@ SYNTAX OF OBJECT IN JS.
 
 Internal representation of Objects.
 
-
-
+	keys and values are its internal reference.
+	eg: let object = {firstname = "siva", lastname = "raman"}
+	
+	keys => first name ,last name.
+	values => siva , raman .
